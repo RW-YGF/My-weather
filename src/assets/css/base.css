@@ -1,0 +1,5 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body { width: 100vw; user-select: none; padding-top: 10px; }
+ a { text-decoration: none; color: #444; }
+  a:link,a:active,a:hover { color: #444; }
